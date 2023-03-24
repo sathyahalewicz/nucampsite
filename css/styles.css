@@ -1,31 +1,13 @@
 body {
     font-family: "Open Sans", sans-serif;
-    background-color: rgb(24, 24, 24);
 }
 
 h1, h2, h3, h4 {
     font-family: "Lobster", cursive;
-    color: white;
 }
 
 h2 {
-    color: #6a01b0;
-}
-
-p {
-    color: white;
-}
-
-#discover {
-    color: rgb(68, 50, 230);
-}
-
-#featured {
-    color: rgb(113, 0, 199);
-}
-
-#ourCommunityPartners {
-    color: rgb(166, 0, 199);
+    color: #3046C5;
 }
 
 header h2 {
@@ -33,9 +15,8 @@ header h2 {
 }
 
 .site-footer {
-    background-image: linear-gradient(rgb(24, 24, 24), rgb(42, 30, 54), rgb(67, 20, 112));
+    background-image: linear-gradient(#CEC8FF, white);
     padding: 20px, 0;
-    color: white;
 }
 
 .jumbotron {
@@ -52,7 +33,7 @@ header h2 {
 }
 
 .navbar-dark {
-    background-color: #2b2b2b;
+    background-color: #901CAD;
 }
 
 a, a:hover {
@@ -65,11 +46,5 @@ a, a:hover {
 }
 
 .carousel {
-    border: solid 10px;
-    border-image: linear-gradient(to right, darkblue, darkorchid) 1;
-}
-
-.img-thumbnail {
-    border: solid 1px;
-    border-image: linear-gradient(to right, darkblue, darkorchid) 1;
+    border: solid #5637DD;
 }
